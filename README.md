@@ -1,5 +1,27 @@
 ## Hi there 👋
 
+## 🧰 Tech Stack
+
+### 🗃️ General Skills
+`Exploratory Data Analysis` • `Machine Learning` • `Deep Learning` • `ETL` • `Data Visualization` • `Time Series Analysis` • `Forecasting` • `Computer Vision`
+
+### 🧑‍💻 Programming Languages
+`Python` • `Java`
+
+### 📊 Visualization Tools
+`Tableau` • `HuggingFace` • `ElasticSearch` • `Kibana` • `Streamlit`
+
+### 📚 Libraries / Frameworks
+`TensorFlow` • `Scikit-learn` • `Pandas` • `Numpy` • `Matplotlib` • `Seaborn` • `Scipy` • `Feature-Engine`
+
+### 🛠️ Tools & Platforms
+`Docker Desktop` • `PostgreSQL` • `MongoDB` • `Google BigQuery`
+
+### 🧪 Techniques
+`Regression Analysis` • `Classification` • `Clustering` • `Hyperparameter Tuning` • `Dimensionality Reduction`
+
+### 🤖 Modeling Algorithms
+`Linear Regression` • `Random Forest` • `Decision Trees` • `XGBoost` • `KMeans` • `K-Nearest Neighbors` • `Support Vector Machine`
 <!--
 **DwiAdhiWK/DwiAdhiWK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
