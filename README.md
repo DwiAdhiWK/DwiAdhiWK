@@ -23,11 +23,11 @@ I'm an aspiring Data Analyst/Data Engineer with hands-on experience in Python, S
 
 ### 🤖 Modeling Algorithms
 `Linear Regression` • `Random Forest` • `Decision Trees` • `XGBoost` • `KMeans` • `K-Nearest Neighbors` • `Support Vector Machine`
-<!--
-**DwiAdhiWK/DwiAdhiWK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/dwi-adhi-widigda-k/)
+<!--
+**DwiAdhiWK/DwiAdhiWK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
