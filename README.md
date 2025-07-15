@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm an aspiring Data Analyst/Data Engineer with hands-on experience in Python, SQL, and data analysis. I enjoy working with structured data, building data pipelines, creating insightful visualizations, and applying machine learning concepts to solve real-world problems.
 
 ## 🧰 Tech Stack
 
@@ -25,6 +26,8 @@
 <!--
 **DwiAdhiWK/DwiAdhiWK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/dwi-adhi-widigda-k/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
